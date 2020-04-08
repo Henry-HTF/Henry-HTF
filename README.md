@@ -11,7 +11,7 @@ npm install
 npm run serve
 ```
 ！！
-### Compiles and minifies for production
+### Compiles and minifies for shayebushi
 ```
 npm run build
 ```
